@@ -37,6 +37,36 @@ class apiBaverageShop extends Controller
         //
     }
 
+    public function postDrink(Request $request)
+    {
+        //form value 
+        //body http form value
+
+        $drinkCode = $request->input('drinkCode');
+        $drinkName = $request->input('drinkName');
+      
+
+ 
+
+        Drink::create([
+            "drinkCode" => $drinkCode,
+            "drinkName" => $drinkName
+          
+        ]);
+
+
+
+        return response()->json(
+            [
+                'Post success ' => true,
+                "drinkCode" => $drinkCode,
+                "drinkName" => $drinkName
+            
+            ]
+        );
+    }
+
+
     /**
      * Update the specified resource in storage.
      */

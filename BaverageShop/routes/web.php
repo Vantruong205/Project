@@ -9,3 +9,6 @@ Route::get('/', function () {
 
 
 Route::get('/store', 'App\Http\Controllers\apiBaverageShop@store');
+
+
+Route::post('/postDrink', 'App\Http\Controllers\apiBaverageShop@postDrink');

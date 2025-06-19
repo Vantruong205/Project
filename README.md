@@ -61,15 +61,13 @@ Truy cập `http://localhost:8000` trong trình duyệt của bạn để sử d
 
 ## Hình ảnh trang web
 ### Đăng nhập 
-![Screenshot 2025-02-27 172814](https://github.com/user-attachments/assets/311018d5-3c3a-4399-b5cd-30d4d624cf18)
+![Đăng nhập](đăngnhập.png)
 ### Giao diện người dùng
-![Screenshot_27-2-2025_17470_127 0 0 1](https://github.com/user-attachments/assets/33ff31a5-425c-420c-9f63-617b9f329f09)
-![Screenshot_27-2-2025_173618_127 0 0 1](https://github.com/user-attachments/assets/68dd0407-037d-4887-94c8-cceb3ad7fe11)
-![Screenshot_27-2-2025_173143_127 0 0 1](https://github.com/user-attachments/assets/1f585665-6272-4bf5-ae6f-aa5d259536ed)
-![Screenshot_27-2-2025_17508_127 0 0 1](https://github.com/user-attachments/assets/919070a1-eee8-4365-980b-da608698a7f9)
+![1](user1.png)
+![2](user2.png)
+![3](user3.png)
 ### Giao diện admin
-![Screenshot 2025-02-27 174040](https://github.com/user-attachments/assets/2948ba40-4249-47ca-b2f4-d6c945ac1b1f)
-![Screenshot_27-2-2025_175258_127 0 0 1](https://github.com/user-attachments/assets/9c007704-fd32-4422-b17a-37c170fdd5d9)
+![admin](admin.png)
 
 
 

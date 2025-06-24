@@ -92,4 +92,4 @@ Route::middleware(['auth', 'adminMiddleware'])->group(function () {
 Route::get('/stories', [StoryController::class, 'index'])->name('stories.index');
 Route::get('/stories/{id}', [StoryController::class, 'show'])->name('stories.show');
 Route::get('/stories/{id}/read', [StoryController::class, 'read'])->name('stories.read');
-Route::post('/stories/{id}/track-view', [StoryController::class, 'trackView'])->name('stories.track-view');
+// Route::post('/stories/{id}/track-view', [StoryController::class, 'trackView'])->name('stories.track-view');
